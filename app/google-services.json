@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613913154370",
+    "firebase_url": "https://rentomojo-8a6ed.firebaseio.com",
+    "project_id": "rentomojo-8a6ed",
+    "storage_bucket": "rentomojo-8a6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613913154370:android:e37ad6cf5bbe8ee3",
+        "android_client_info": {
+          "package_name": "com.jarivs.rentomojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613913154370-g6aqsi9qrnvionk9spcmed937t0n6ov3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jarivs.rentomojo",
+            "certificate_hash": "134b5d1bdc4263979ba05a5d4a5aec331609dd7c"
+          }
+        },
+        {
+          "client_id": "613913154370-2r2ijpcu75sbr26ao2k1fcopoarspbvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-rarfJYhuBRIgCh6pzVXUC3OhaBAf6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613913154370-2r2ijpcu75sbr26ao2k1fcopoarspbvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

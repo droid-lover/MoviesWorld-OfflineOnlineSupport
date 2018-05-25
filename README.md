@@ -1,4 +1,4 @@
-# MoviesWorld---OfflineOnlineSupport
+# MoviesWorld- An App with OfflineOnlineSupport
 
 an app which supports online/offline mode and endless scrolling 
 
